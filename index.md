@@ -655,6 +655,16 @@
                     </div>
     
                 </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <img src="./images/music.jpg" height="100px" width="100px"></a>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">Music</h4>
+                    </div>
+    
+                </div>
                 
             </div>
 
