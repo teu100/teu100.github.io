@@ -296,8 +296,7 @@
                 <p>
                     Third Year for me was one of the hardest year, it felt like there was a lot of pressure but I was able to get through it. The first semester of 
                     third year was just a normal college semester but we were also looking for internship position. I applied to many companies got a lot of 
-                    interview skills. I will talk about my internship experience under Work experience. 
-                </p>
+                    interview skills. I will talk about my internship experience under Work experience.</p>
                 <table>
                     <tr>
                         <th>Module</th>

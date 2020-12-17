@@ -11,6 +11,7 @@
 .imgContainer{
     position: relative;
 }
+
 .backGroundImage {
     position: relative;
     display: block;
@@ -35,8 +36,7 @@
     text-align: center;
     position: center;
     max-width: 100%;
-    border: 1px solid #ccc;
-
+    background-color:  #f1f1f1;
 }
 
 .overview h2{
@@ -229,4 +229,11 @@
 
 .mainTechUsed{
     font-weight: bold;
+}
+
+@media only screen and (max-width: 500px)
+{
+    .myPhoto{
+        left: 10%;
+    }
 }
