@@ -237,3 +237,11 @@
         left: 10%;
     }
 }
+
+.hobbies h2{
+    text-align: center;
+}
+
+.hobbies{
+    border: 1px solid #ccc;
+}

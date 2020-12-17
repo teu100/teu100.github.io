@@ -590,7 +590,7 @@
 
             <div class="media">
                 <div class="media-left">
-                    <a href="http://www.scoilmhuire.net/" target="_blank"><img src="./images/schoolLogo.PNG"></a>
+                    <a href="http://www.scoilmhuire.net/" target="_blank"><img src="./images/schoolLogo.PNG" height="200px" width="200px"></a>
                 </div>
                 <div class="media-body">
                     <a href="http://www.scoilmhuire.net/" target="_blank"><h3 class="media-heading">Scoil Mhuire Senior School</h3></a>
@@ -621,6 +621,44 @@
                 
             </div>
         </div>
+
+
+
+            <div class="hobbies">
+                <h2>Hobbies </h2>
+                <div class="media">
+                    <div class="media-left">
+                        <img src="./images/boxing.jpg" height="100px" width="100px"></a>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">Boxing</h4>
+                    </div>
+    
+                </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <img src="./images/gaming.jpg" height="100px" width="100px"></a>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">gaming</h4>
+                    </div>
+    
+                </div>
+
+                <div class="media">
+                    <div class="media-left">
+                        <img src="./images/cookingIcon.png" height="100px" width="100px"></a>
+                    </div>
+                    <div class="media-body">
+                        <h4 class="media-heading">Cooking</h4>
+                    </div>
+    
+                </div>
+                
+            </div>
+
+            
 
 
         <div class="botttomNavBar">
