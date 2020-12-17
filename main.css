@@ -35,7 +35,8 @@
     text-align: center;
     position: center;
     max-width: 100%;
-    background-color:  #f1f1f1;
+    border: 1px solid #ccc;
+
 }
 
 .overview h2{

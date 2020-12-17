@@ -544,7 +544,7 @@
             <h2>Work Experience</h2>
             <div class="media">
                 <div class="media-left">
-                    <img src="./images/OdysseyVC.png">
+                    <a href="https://www.odysseyvc.com/" target="_blank"><img src="./images/OdysseyVC.png"></a>
                 </div>
                 <div class="media-body">
                     <a href="https://www.odysseyvc.com/" target="_blank"><h3 class="media-heading">Odyssey VC</a> - <a href="https://www.compliantcloud.com/" target="_blank">Compliant Cloud</a></h3>
@@ -573,15 +573,15 @@
                         <br>
                         <p class="mainTechUsed">Main Technology used :</p>
                         <ul>
-                            <li>Leap Work</li>
+                            <li><a href="https://www.leapwork.com/" target="_blank">Leap Work</a></li>
                             <p>We used LeapWork to run our test scripts, and automated testing.</p>
-                            <li>Slack</li>
+                            <li><a href="https://slack.com/intl/en-ie/" target="_blank">Slack</a></li>
                             <p>Slack was used for the purpose of communicating with people in the work place.</p>
-                            <li>Zoho Sprints</li>
+                            <li><a href="https://www.zoho.com/sprints/" target="_blank">Zoho Sprints</a></li>
                             <p>We used Zoho sprints to write our user stories, bug and task to do.</p>
-                            <li>LiveChat</li>
+                            <li><a href="https://www.livechat.com/" target="_blank">LiveChat</a></li>
                             <p>We used LiveChat for the Compliant Cloud website.</p>
-                            <li>SysAid</li>
+                            <li><a href="https://www.sysaid.com/" target="_blank">SysAid</a></li>
                             <p>We used SysAid with our web application, SysAid is where would store Orders, services, tickets and a few more things.</p>
                         </ul>
                     </p>
@@ -591,7 +591,7 @@
 
             <div class="media">
                 <div class="media-left">
-                    <img src="./images/schoolLogo.PNG">
+                    <a href="http://www.scoilmhuire.net/" target="_blank"><img src="./images/schoolLogo.PNG"></a>
                 </div>
                 <div class="media-body">
                     <a href="http://www.scoilmhuire.net/" target="_blank"><h3 class="media-heading">Scoil Mhuire Senior School</h3></a>
@@ -625,6 +625,7 @@
 
 
         <div class="botttomNavBar">
+            
             <div class="SMLinks">
                 <h3>Social Media's</h3>
                 <a href="https://github.com/teu100" target="_blank"><img src="./images/gitHubIcon.png" alt="GitHub Logo" width="50" height="50"><a href="https://github.com/teu100" target="_blank"> GitHub</a>   
