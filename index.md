@@ -11,6 +11,10 @@
         .pssImages {display: none;}
     </style>
     <meta name="facebook-domain-verification" content="r7ezrrncdvf3szdwu0s7ug2urhfomq" />
+    
+    <script>
+        <meta name="facebook-domain-verification" content="wfrh7ir7ar54yfo8u5lshypz1slwju" />
+    </script>
 </head>
 
 <body>
